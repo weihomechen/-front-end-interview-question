@@ -6,7 +6,7 @@
 
 clone到本地：
 ```
-git clone https://github.com/weihomechen/-front-end-interview-question.git
+git clone https://github.com/weihomechen/front-end-interview-question.git
 ```
 切换或打开这个项目，安装依赖：
 ```
@@ -78,4 +78,6 @@ for (let i = 1; i < arr.length; i++) {
 this.setState({msg: '该数组没有平衡位'});
 ```
 
-计算左边的值和右边的值以后，移动时，左边的值等于原先左边的值+当前位置前一个位置的值，右边的值等于原先右边的值减去当前的位置的数字的值
+计算左边的值和右边的值以后，移动时，左边的值等于原先左边的值+当前位置前一个位置的值，右边的值等于原先右边的值减去当前的位置的数字的值。
+
+PS: 希望有后续，不然就为了做一题就搭一个脚手架也真是夸大了，哈哈哈哈
